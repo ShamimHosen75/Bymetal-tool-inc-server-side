@@ -13,7 +13,7 @@ app.use(express.json())
 app.use(cors())
 
 app.get('/', (req, res) => {
-    res.send('Royal flus Plumbing')
+    res.send('Bymetal Tool Inc')
 })
 
 // mongodb url
